@@ -1,2 +1,2 @@
 # espece2je
-coucou
+The project where i try some fun graphical / game mechanix
